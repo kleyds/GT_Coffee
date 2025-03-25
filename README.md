@@ -21,3 +21,7 @@ php artisan config:clear
 php artisan view:clear
 php artisan route:clear
 php artisan optimize
+
+npm run dev
+node server.js
+php artisan serve
