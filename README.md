@@ -1,6 +1,8 @@
 # GT_Coffee
 Mini-app for hiring process
 
+Initial setup:
+
 npm install
 composer install
 cp .env.example .env
